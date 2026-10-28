@@ -1,0 +1,11 @@
+langchain-community
+langchain
+langchain-core
+pypdf
+ollama
+pinecone
+langchain-groq 
+sentence-transformers
+langchain-tavily
+langchain-mcp-adapters
+tavily

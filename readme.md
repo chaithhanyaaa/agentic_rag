@@ -210,6 +210,4 @@ The second question uses conversation history to resolve "it" to database replic
 - Add automated tests for routing, retries, retrieval, and fallback behavior.
 - Deploy the system behind a FastAPI backend.
 
-## License
 
-Add your chosen license before distributing or publishing the project.
